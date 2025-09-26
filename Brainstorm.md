@@ -11,14 +11,16 @@ One paragraph capturing my brainstorm of a game I want to build for this class, 
       to discover the full story.
     - High emphasis on failure and repetition to improve.
     - Easy to restart sequences with little or no backtracking.
-    - Seamless integration of level selection with levels.
-    - Make it easy to 
+    - Seamless integration of level selection "hub" with levels.
+    - Make it easy to cancel and move between sequences. Possibility of checkpoints
+      or rehearsing smaller chunks of each sequence.
     - Encourage continuous bouts of focus (of increasing duration)
-      throughout the game. This is similar to the experience of a
-      a music performance. 
+      throughout the game. This is meant to mimic to the experience of a
+      a music performance.
     - Perfection is not attainable so mistakes are not severely
-      punished, but improvement is encouraged.
--   Musical
+      punished. but improvement is encouraged.
+-   Musical styles are varied - drawing inspiration from jazz, orchestral and wind band
+    instrumentation
 -   Unique input utilizing many keyboard keys
     - Not like a typing game, but maybe over the home row.
     - Same keys do different things depending on what actions or
